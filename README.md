@@ -1,6 +1,7 @@
 - Hi, my name is Luana Hartmann
 - I'm a Computer Engineering student at USP - EESC/ICMC
 - I'm interested in Biomdecial Engineering and currently studying medical robotics
+- I'm still updating my repositories with all the work I've done so far
 
 <div>
 <a href="https://github.com/luana-hartmann">
