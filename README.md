@@ -5,5 +5,5 @@
 
 <div>
 <a href="https://github.com/luana-hartmann">
-<img loading="lazy" height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luana-hartmann&layout=compact&langs_count=7&theme=omni"/>
+<img loading="lazy" height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luana-hartmann&layout=compact&langs_count=7&theme=transparent"/>
 </div>
